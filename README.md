@@ -1,1 +1,1 @@
-# iptv-m3u
+IPTV IPV6源 M3U格式
